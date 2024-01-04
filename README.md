@@ -1,10 +1,6 @@
-- 👋 Здравствуйте, меня зовуи Алёна Зуева.
+- 👋 Здравствуйте, меня зовут Алёна Зуева.
 - 👀 Я интересуюсь наукой и техникой, политикой, медициной, люблю природу
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 В настоящее время я учусь в SkyPro на аналитика данных.
+- 💞️ Хотела бы работать с небольшими предприятими, возможно стартапами, где бы могла участвовать в проекте с момента его "рождения"
+- 📫 Связаться со мной можно: alena_zueva_91@mail.ru; TG @AlennnaAleksandrowna; https://vk.com/akrask; тел.8-930-302-03-05.
 
-<!---
-alenazueva91/alenazueva91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
